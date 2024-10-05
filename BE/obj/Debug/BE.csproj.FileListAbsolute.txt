@@ -1,0 +1,12 @@
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\BE\bin\Debug\BE.dll.config
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\BE\bin\Debug\BE.dll
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\BE\bin\Debug\BE.pdb
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\BE\bin\Debug\EntityFramework.dll
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\BE\bin\Debug\EntityFramework.xml
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\BE\obj\Debug\BE.dll
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\BE\obj\Debug\BE.pdb

@@ -1,0 +1,17 @@
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\bin\Debug\DAL.dll.config
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\bin\Debug\DAL.dll
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\bin\Debug\DAL.pdb
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\bin\Debug\BE.dll
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\bin\Debug\EntityFramework.dll
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\bin\Debug\BE.pdb
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\bin\Debug\BE.dll.config
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\bin\Debug\EntityFramework.xml
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\obj\Debug\DAL.Migrations._1.resources
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\obj\Debug\DAL.dll
+C:\Users\mahmo\Desktop\Mproject\CRM-finalproject\DAL\obj\Debug\DAL.pdb
